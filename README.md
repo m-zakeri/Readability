@@ -15,7 +15,7 @@ All proposed methods and innovations:
 
 1. Automatic detection of method name smells 
 2. Automatic detection of class name smells 
-3. Select the appropriate name by changing the current name or from the name of similar entities \
+3. Select the appropriate name by changing the current name or from the name of similar entities 
 4. Rename actions on the code 
 5. Assessing the readability of the code before and after reconstruction 
 
